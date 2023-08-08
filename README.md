@@ -1,8 +1,21 @@
-<p align="center">
-  <img src="https://i.postimg.cc/mDX9H6Hs/Banner.png" height="75" alt="Matrixx">
-</p>
+[<img src="assets/sf-download-button.webp" />](https://sourceforge.net/projects/newprojects/files/Matrixx/lemonadep-OnePlus-9Pro "Download all required stuffs.")
 
-### Changelog v-1.0
+<b>Matrixx v-2.0 Changelog:</b>
+- Bump up Matrixx version to v-2.0
+- Fixed Pixel style weather padding.
+- Fixed navigation pill overlapping.
+- Fixed Gesture navigation long swipe actions.
+- Added dual tone QS backbround.
+- Removed updater.
+- Rebranded Matrixx SetupWizard.
+- Optimize IncallUI delay for voice calls.
+- Improved dolby sound.
+- Updated recovery UI.
+- Updated Matrixx UDFPS icon.
+- Added Matrixx logo on many places.
+- Other system improvements.
+
+<b>Matrixx v-1.0 Changelog:</b>
 - Based on crDroid v-9.7 code base.
 - Added Ambient customizations.
 - Added auto dim.
@@ -28,5 +41,3 @@
 - Added windwos secure flag.
 - Allow to enforce user selected resolution.
 - Fixed long swipe gesture actions.
-
-[<img src="assets/sf-download-button.webp" />](https://sourceforge.net/projects/newprojects/files/Matrixx/lemonadep-OnePlus-9Pro "Download all required stuffs.")
