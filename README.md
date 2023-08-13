@@ -1,5 +1,12 @@
 [<img src="assets/sf-download-button.webp" />](https://sourceforge.net/projects/newprojects/files/Matrixx/lemonadep-OnePlus-9Pro "Download all required stuffs.")
 
+<b>Matrixx v-3.0 Changelog:</b>
+- Updated to August 2023 security patch.
+- Bump up Matrixx version to v-3.0
+- Based on crDroid v-9.8 code base.
+- Kernel upstream to 5.4.252.
+- Brand new bootanimation.
+
 <b>Matrixx v-2.0 Changelog:</b>
 - Bump up Matrixx version to v-2.0
 - Fixed Pixel style weather padding.
