@@ -1,4 +1,11 @@
-[<img src="assets/sf-download-button.webp" />](https://sourceforge.net/projects/newprojects/files/Matrixx/lemonadep-OnePlus-9Pro "Download all required stuffs.")
+[<img src="assets/sf-download-button.webp" />](https://sourceforge.net/projects/projectmatrixx/files/Android-13/ "Download all required stuffs.")
+
+<b>Matrixx v-6.0 Changelog:</b>
+- Bump up Matrixx version to v-6.0
+- Merged Septemper security patch
+- Fix lock/unlock Flicker if Extra dim enabled
+- Built on top of crDroid 9.9 codebase
+- Other system improvements
 
 <b>Matrixx v-5.0 Changelog:</b>
 - Bump up Matrixx version to v-5.0
@@ -12,20 +19,7 @@
 - Redesign battery progress bar
 - Other system improvements
 
-<b>Matrixx v-4.0 Changelog:</b>
-- Bump up Matrixx version to v-4.0
-- Updated device blobs to OOS 13.1.590(EX01)
-- Firmware included into ROM zip
-- Added Custom Settings UI 
-- Kernel upstream to 5.4.254
-- Reset USB drivers upstream 
-- Fixed ringtone issue if connected old BT devices.
-- Added Launcher transition scaling from motorola
-- Restart launcher when app drawer opacity is changed
-- Remove blur animation on app launch/exit 
-- Fix memory info calculation
-- Other system improvements
-
-
-- Old Changelog : [**HERE**](https://github.com/TechMatrixx/techmatrixx.github.io/blob/main/OldChangelog.md)
-- Screenshots : [**HERE**](https://photos.app.goo.gl/dhqH44zbzGxhGVbJ7)
+---------------
+### Old Changelog : [**HERE**](https://github.com/TechMatrixx/techmatrixx.github.io/blob/main/OldChangelog.md)
+---------------
+### Screenshots : [**HERE**](https://photos.app.goo.gl/dhqH44zbzGxhGVbJ7)
