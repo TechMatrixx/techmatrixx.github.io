@@ -1,7 +1,36 @@
-<details>
-<br>
-<summary><b>Matrixx v-5.0 Changelog:</b> :arrow_down: </summary>
+---
+title: ChangeLogs
+description: Changes based on release version
+---
 
+<b>Matrixx v-7.0 Changelog:</b>
+- Bump Matrixx release version to v-7.0
+- Redesigned About Phone settings
+- Added Official tag and maintainer name in About phone section
+- Added More icon packs
+- Added Selinux info into About Phone
+- Added ROM version/type/variant
+- Added option to enable/disable charging sound
+- Added statusbar brightness control
+- Put bare minimum metadata in screenshots
+- Less boring headsup enhancements and fixes
+- New Dialer UI
+- Code cleanup and optimizations
+
+<b>Matrixx v-6.0 Changelog:</b>
+- Merged android-13.0.0_r75 Security patch
+- Bump up Matrixx version to v-6.0
+- Built on top of crDroid 9.9 codebase
+- Fix lock/unlock Flicker if Extra dim enabled
+- Fixed crashing if hide IME space enabled for third party keyboard 
+- Fixed media volome not returning to the last value after a notification sound
+- Fixed 90 FPS for BGMI
+- Fixed Launcher recents
+- Updated blobs to OOS 13.1.591(EX01)
+- Kernel upstream to 5.4.257
+- Other system improvements
+
+<b>Matrixx v-5.0 Changelog:</b>
 - Bump up Matrixx version to v-5.0 
 - Completely redesigned Settings UI 
 - Kernel upstream to 5.4.256
@@ -13,13 +42,7 @@
 - Redesign battery progress bar
 - Other system improvements
 
-</details>
-
-#
-<details>
-<br>
-<summary><b>Matrixx v-4.0 Changelog:</b> :arrow_down: </summary>
-
+<b>Matrixx v-4.0 Changelog:</b>
 - Bump up Matrixx version to v-4.0
 - Updated device blobs to OOS 13.1.590(EX01)
 - Firmware included into ROM zip
@@ -33,26 +56,14 @@
 - Fix memory info calculation
 - Other system improvements
 
-</details>
-
-#
-<details>
-<br>
-<summary><b>Matrixx v-3.0 Changelog:</b> :arrow_down: </summary>
-
+<b>Matrixx v-3.0 Changelog:</b>
 - Updated to August 2023 security patch.
 - Bump up Matrixx version to v-3.0
 - Based on crDroid v-9.8 code base.
 - Kernel upstream to 5.4.252.
 - Brand new bootanimation.
 
-</details>
-
-#
-<details>
-<br>
-<summary><b>Matrixx v-2.0 Changelog:</b> :arrow_down: </summary>
-
+<b>Matrixx v-2.0 Changelog:</b>
 - Bump up Matrixx version to v-2.0
 - Fixed Pixel style weather padding.
 - Fixed navigation pill overlapping.
@@ -67,13 +78,7 @@
 - Added Matrixx logo on many places.
 - Other system improvements.
 
-</details>
-
-#
-<details>
-<br>
-<summary><b>Matrixx v-1.0 Changelog:</b> :arrow_down: </summary>
-
+<b>Matrixx v-1.0 Changelog:</b>
 - Based on crDroid v-9.7 code base.
 - Added Ambient customizations.
 - Added auto dim.
@@ -99,5 +104,3 @@
 - Added windwos secure flag.
 - Allow to enforce user selected resolution.
 - Fixed long swipe gesture actions.
-
-</details>
