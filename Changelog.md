@@ -3,6 +3,20 @@ title: ChangeLogs
 description: Changes based on release version
 ---
 
+<b>Matrixx v-8.0 Changelog:</b>
+- Bump Matrixx release version to v-8.0
+- Merged October 2023 Security patch
+- Added option to resize QS & Statusbar clock
+- Added option to select QS & Statusbar clock font style & color
+- Navigationbar: Flip canvas if gesture started from left 
+- Fixed toggle thumb color if disable
+- Added toggle to force LTE_CA
+- Added scheduling always on display
+- Added double tap to check phone
+- Added option to show Ambient instead of fully waking
+- Added Plumpy, Aurora, Gradicon, Lorn iconpack from Iconify
+- Other small improvements here and there
+
 <b>Matrixx v-7.0 Changelog:</b>
 - Bump Matrixx release version to v-7.0
 - Redesigned About Phone settings
