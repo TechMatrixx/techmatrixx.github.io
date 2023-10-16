@@ -118,3 +118,5 @@ description: Changes based on release version
 - Added windwos secure flag.
 - Allow to enforce user selected resolution.
 - Fixed long swipe gesture actions.
+
+[Back](./)
